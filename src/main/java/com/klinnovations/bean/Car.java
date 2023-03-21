@@ -14,6 +14,7 @@ public class Car {
   public void drive() {
 	  int status= eng.start();
 	  if(status>=1) {
+		  String s = "hi";
 		  System.out.println("Jurney Started...");
 	  }
 	  else {
