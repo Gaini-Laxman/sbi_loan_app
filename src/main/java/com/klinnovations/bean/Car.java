@@ -6,7 +6,6 @@ public class Car {
 	
 	public Car() {
 		// TODO Auto-generated constructor stub
-          System.out.println("Zero Param Constructor");
 	}
 	
 	public Car(IEngine eng) {
